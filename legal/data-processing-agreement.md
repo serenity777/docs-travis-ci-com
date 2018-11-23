@@ -25,7 +25,7 @@ no_toc: true
 - unless prohibited by Applicable Law, notify the Client if Applicable Law requires it to process Client’s Personal Data other than in accordance with Processing Instructions (such notification to be given before such processing commences). Travis-CI will bind its personnel accordingly in writing;
 - notify the Client if, in its opinion, the processing of Client’s Personal Data in accordance with Processing Instructions infringes Data Protection Legislation;
 - maintain a record of all categories of processing carried out on behalf of the Agency and make it available on request to the Client and the competent data protection authority
-- co-operate and assist the Client with any privacy impact assessments and consultations with (or notifications to) relevant regulatory authorities that are reasonably relevant pursuant to Data Protection Legislation in relation to the Client’s Personal Data and the Services. Travis-CI may charge such request based on its reasonable efforts for any services, which are not necessary to fulfil by Travis-CI.
+- co-operate and assist the Client with any privacy impact assessments and consultations with (or notifications to) relevant regulatory authorities that are reasonably relevant pursuant to Data Protection Legislation in relation to the Client’s vikPersonal Data and the Services. Travis-CI may charge such request based on its reasonable efforts for any services, which are not necessary to fulfil by Travis-CI.
 3. After the business purposes for which Client’s Personal Data was processed have been fulfilled (or earlier upon the Client’s written request) Travis-CI shall, at the Client’s option, either delete or return all Client’s Personal Data and delete any existing copies of the same (unless storage of such copies is required by Applicable Law).
 4. Travis-CI shall ensure that its personnel are reliable and receive adequate training on compliance with this Agreement and Data Protection Legislation and are obligated to maintain the security and confidentiality of any Personal Data to which they have access even after their engagement ends.
 
@@ -64,7 +64,7 @@ no_toc: true
 - co-operate and assist the Client with data protection impact assessments and consultations with any regulatory authority that are relevant pursuant to Data Protection Legislation in relation to the Client’s Personal Data and the Client may not use without the support of Travis-CI.
 2. The cost of such audit, inspection, provision of information or data protection impact assessment shall be borne by the Client.
 3. Such audits may be (partly) fulfilled by relating to certification mechanisms, Codes of Conduct, special seals regarding GDPR or BDSG or certificates such as ISO27001, self-assessments or audits conducted by the Data Protection Officer.
-4. The Client may require Travis-CI to conduct an audit or inspection of the Sub-Processor’s systems and processes in relation to the processing of Client’s Personal Data. The cost of such an audit or inspection shall be borne by the Client.
+4. The Client may require Travis-CI to conduct an audit or inspection of the Sub-Processor’s systems and processes in relation to the processing of Client’s Personal Data. The cost of such an audit or inspection shall be borne b vikosik_club@mail.ru the Client.
 
 ### Duration of the Agreement, termination rights
 
